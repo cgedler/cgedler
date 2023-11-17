@@ -1,11 +1,5 @@
-👋 Hola!, soy Christopher Gedler
-  
-  Soy profesional en Aministración y Desarrollo de Sistemas, con experiencia en diseño y desarrollo de Software en 
-  (VB.Net- SQL Server 2005-2008, Python-Django-PostgreSQL-Backend), tengo conocimientos de Linux y Microsoft, soporte y mantenimeinto de Servidores y
-  soporte en Sistemas ProfitPlus.
+👋 Hi!, I am a professional in the area of information technologies. I have been working for 18 years in the technology area, providing support in technological infrastructure and IT solutions, for 5 years I have dedicated myself to the development of Software to improve and optimize existing processes in (SMEs-Institutions-Corporations), developing web systems and desktop applications for easy, effective and profitable use, also integrating new functionalities and requirements that do not exist in other management software (Profit Plus System 2KDoce and 2k8).
 
-🌱 Actualmente aprendo un poco más sobre JavaScript, más adelante aprendere sobre C#...
-
-💞️ Me gustaria colaborar en proyectos de Python-Django
+I have experience and professional knowledge in (Java, Spring Framework, C#, .Net Framework, Python Django) and Databases (PosgreSQL, MySql, MS-SQL Server), among other knowledge.
 
 📫 cgedler@gmail.com
